@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spaces_default">24dp</dimen>
+    <dimen name="spaces_16dp">16dp</dimen>
+    <dimen name="box_text_size">24sp</dimen>
+</resources>
